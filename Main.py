@@ -41,7 +41,7 @@ try:
     print("|"*50)
     print("""All the desire files have been downloaded in the "Songs" folder.
 If you want to download more songs please execute the program again.
-Thanks for using my app!!.More info in:""")
+Thanks for using my app!!.More info in:https://github.com/AMATO174/YouTube-Downloader""")
 except Exception as error:
     print(f"{error}:An error ocurred, please restart the program and enter valid links.")
 

@@ -20,4 +20,5 @@ YouTubeDownloader(Folder)---------->Main.py(Main program)
 				
 
 The name of the program(Main.py) and the main file(YouTubeDownloader) isn't critic, although the name of the folder
-where the songs will be allocated has to be "Songs" to work properly.					
+where the songs will be allocated has to be "Songs" to work properly.	
+More info at: https://github.com/AMATO174/YouTube-Downloader				
