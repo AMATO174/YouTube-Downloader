@@ -14,11 +14,11 @@ Detailled Working:
 Note:
 The files could be configurated like this:
 
-YouTubeDownloader(Folder)---------->Main.py(Main program)
+YouTube Downloader(Folder)---------->Main.py(Main program)
 				|
 				|__>Songs(Folder)_____>DownloadedSongs.mp3(mp3 file)
 				
 
-The name of the program(Main.py) and the main file(YouTubeDownloader) isn't critic, although the name of the folder
-where the songs will be allocated has to be "Songs" to work properly.	
+The name of the program(Main.py) isn't critic, but the name of the two folders is very important, the main folder
+has to be named as "YouTube Downloader", and the second folder (where the songs will be allocated) has to be named "Songs"	
 More info at: https://github.com/AMATO174/YouTube-Downloader				
